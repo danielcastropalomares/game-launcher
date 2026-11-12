@@ -1,0 +1,7 @@
+{
+  "uuid": "zlauncher-helper@game-station",
+  "name": "Launcher de juegos (ayudante)",
+  "description": "Mientras el launcher de juegos está abierto, da el foco a las ventanas nuevas (los juegos) en cuanto aparecen.",
+  "shell-version": ["50"],
+  "version": 1
+}
